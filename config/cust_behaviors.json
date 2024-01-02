@@ -1,0 +1,18 @@
+[
+	{
+		"code": "&kp C_VOL_UP",
+		"name": "&kp C_VOL_UP",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&kp C_VOL_DN",
+		"name": "&kp C_VOL_DN",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
